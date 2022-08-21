@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tomasortega/projects_2022/PointsInsidePolygon/src/inside/main.cpp
+algorithm
+-
+complex
+-
+fstream
+-
+iostream
+-
+numeric
+-
+vector
+-
+

@@ -1,0 +1,5 @@
+/Users/tomasortega/projects_2022/PointsInsidePolygon/build/CMakeFiles/rebuild_cache.dir
+/Users/tomasortega/projects_2022/PointsInsidePolygon/build/CMakeFiles/edit_cache.dir
+/Users/tomasortega/projects_2022/PointsInsidePolygon/build/src/inside/CMakeFiles/rebuild_cache.dir
+/Users/tomasortega/projects_2022/PointsInsidePolygon/build/src/inside/CMakeFiles/edit_cache.dir
+/Users/tomasortega/projects_2022/PointsInsidePolygon/build/src/inside/CMakeFiles/points_in_polygon.dir
